@@ -1,0 +1,1 @@
+SLACK_API_TOKEN=xoxb-167599207236-tdRa24AI3ZykP1HWqvcl3PV9 bundle exec ruby spec/pongbot.rb
